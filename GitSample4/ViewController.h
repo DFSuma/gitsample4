@@ -16,6 +16,9 @@
 @property NSString *strTest1 ;
 @property NSString *strTest2 ;
 @property NSString *strTest3 ;
+@property NSString *strTest4 ;
+
+
 
 @end
 
