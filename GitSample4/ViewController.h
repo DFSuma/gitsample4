@@ -11,5 +11,6 @@
 @interface ViewController : UIViewController
 
 
+@property NSString *strTest ;
 @end
 
