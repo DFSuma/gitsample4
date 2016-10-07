@@ -13,5 +13,7 @@
 
 
 @property NSString *strTest ;
+@property NSString *strTest1 ;
+
 @end
 
